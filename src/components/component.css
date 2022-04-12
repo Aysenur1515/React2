@@ -1,0 +1,44 @@
+.baslık {
+  border-bottom: 1px solid darkred;
+  text-align: left;
+  margin: 20px;
+  font-size: 50px;
+  color: rgb(152, 15, 15);
+}
+
+.logotext {
+  border: 3px solid darkred;
+  text-align: left;
+  margin: 20px;
+  padding-bottom: 10px;
+  font-size: 30px;
+  background-color: rgb(234, 160, 160);
+  color: darkred;
+}
+.Text {
+  border: 2px solid darkred;
+  float: left;
+  width: calc(50% - 5px);
+  margin-top: 10px;
+}
+.comp3 {
+  border: 5px solid darkred;
+  float: left;
+  margin-top: 20px;
+}
+.tarih {
+  text-align: right;
+  margin: 20px;
+  font-size: 20px;
+  color: rgb(152, 15, 15);
+}
+
+.Text1 {
+  border: 2px solid rgb(187, 86, 86);
+  float: left;
+  width: calc(50% - 5px);
+  margin-top: 10px;
+  
+}
+
+
